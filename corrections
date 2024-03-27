@@ -1,0 +1,9 @@
+R-squared (R2) score: 0.9664902980470405: This is a very good R-squared (R2) score. It indicates that your model explains a large amount of the variance in the data.
+Mean Absolute Percentage Error (MAPE): 6.10069256506428: This is a relatively high MAPE. It indicates that your model is making some relatively large errors in its predictions.
+Mean Absolute Error (MAE): 0.0237542604858592: This is a relatively high MAE. It indicates that your model is making some relatively large errors in its predictions.
+However, there are some cases where it may be better to leave bad data points in your model. For example, if you have a large dataset and the bad data points are a small percentage of the overall data, then you may be able to leave them in without significantly affecting the performance of your model.
+Here are some additional things to consider when making your decision:
+
+The size of your dataset: If you have a small dataset, then removing even a few bad data points can have a significant impact on the performance of your model.
+The type of data you have: Some types of data are more sensitive to bad data points than others. For example, financial data is often very sensitive to bad data points.
+The potential impact of removing the bad data points: Removing bad data points can sometimes have unintended consequences. For example, removing bad data points can sometimes lead to overfitting.
